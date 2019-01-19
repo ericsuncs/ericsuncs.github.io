@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b043868-23d6-47c0-a63b-94b4bcd4db68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cvitae/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/index.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/acn/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/action_kinect/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/activitynet/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/actor_supervision/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/daps/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/detad/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/hoi_videos/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/scc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/sst/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/sstad/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/1/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/1/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/4/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/4/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/4/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk/index.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -61,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="597" column="122" selection-start-line="597" selection-start-column="122" selection-end-line="597" selection-end-column="122" />
+            <state relative-caret-position="221">
+              <caret line="662" column="108" selection-start-line="662" selection-start-column="108" selection-end-line="662" selection-end-column="108" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -152,12 +118,12 @@
       <option name="presentableId" value="Default" />
       <updated>1547789300572</updated>
       <workItem from="1547789302725" duration="6935000" />
-      <workItem from="1547912565183" duration="5813000" />
+      <workItem from="1547912565183" duration="7659000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12748000" />
+    <option name="totallyTimeSpent" value="14594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -203,8 +169,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="597" column="122" selection-start-line="597" selection-start-column="122" selection-end-line="597" selection-end-column="122" />
+        <state relative-caret-position="221">
+          <caret line="662" column="108" selection-start-line="662" selection-start-column="108" selection-end-line="662" selection-end-column="108" />
           <folding>
             <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
