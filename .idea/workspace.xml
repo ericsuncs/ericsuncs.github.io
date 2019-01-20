@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b043868-23d6-47c0-a63b-94b4bcd4db68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1188">
-              <caret line="543" column="33" lean-forward="true" selection-start-line="543" selection-start-column="33" selection-end-line="543" selection-end-column="33" />
+            <state relative-caret-position="215">
+              <caret line="470" column="23" selection-start-line="470" selection-start-column="23" selection-end-line="470" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -58,7 +59,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,6 +70,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -110,24 +111,24 @@
       <option name="presentableId" value="Default" />
       <updated>1547789300572</updated>
       <workItem from="1547789302725" duration="6935000" />
-      <workItem from="1547912565183" duration="12447000" />
+      <workItem from="1547912565183" duration="12469000" />
+      <workItem from="1547959015579" duration="146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19382000" />
+    <option name="totallyTimeSpent" value="19550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.1702454" visible="true" weight="0.15542677" />
-      <window_info id="Structure" order="1" sideWeight="0.8297546" side_tool="true" visible="true" weight="0.15542677" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.16901408" visible="true" weight="0.15542677" />
+      <window_info id="Structure" order="1" sideWeight="0.8309859" side_tool="true" visible="true" weight="0.15542677" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2936078" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -144,25 +145,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/talk/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5016" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html" />
+    <entry file="file://$PROJECT_DIR$/talk/index.html" />
+    <entry file="file://$PROJECT_DIR$/index.json" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1188">
-          <caret line="543" column="33" lean-forward="true" selection-start-line="543" selection-start-column="33" selection-end-line="543" selection-end-column="33" />
+        <state relative-caret-position="215">
+          <caret line="470" column="23" selection-start-line="470" selection-start-column="23" selection-end-line="470" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
