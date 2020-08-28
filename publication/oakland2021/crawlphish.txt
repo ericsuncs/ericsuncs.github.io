@@ -1,0 +1,8 @@
+@inproceedings{zhang2021crawlphish,
+	title        = {{CrawlPhish: Large-scale Analysis of Client-side Cloaking Techniques in Phishing}},
+	author       = {Zhang, Penghui and Oest, Adam and Cho, Haehyun and Johnson, RC and Wardman, Brad and Sarker, Shaown and Kpravelos, Alexandros and Bao, Tiffany and Wang, Ruoyu and Shoshitaishvili, Yan and Doup{\'e}, Adam and Ahn, Gail-Joon},
+	booktitle    = {In Proceedings of the 42nd IEEE Symposium on Security and Privacy (Oakland)},
+	month        = May,
+	year         = 2021,
+	address      = {San Francisco, CA},
+}
