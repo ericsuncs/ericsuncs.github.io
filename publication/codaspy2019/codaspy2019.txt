@@ -1,5 +1,5 @@
 @inproceedings{sun2018understanding,
- title        = {{Understanding and Detecting Private Interactions in Underground Forums}},
+ title        = {{Understanding and Predicting Private Interactions in Underground Forums}},
  author       = {Sun, Zhibo and Rubio-Medrano, Carlos E. and Zhao, Ziming and Bao, Tiffany and Doup{\'e}, Adam and Ahn, Gail-Joon},
  booktitle    = {Proceedings of the Ninth ACM Conference on Data and Application Security and Privacy (CODASPY)},
  year         = {2019},

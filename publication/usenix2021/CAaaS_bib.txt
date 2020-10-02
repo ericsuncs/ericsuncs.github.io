@@ -1,0 +1,6 @@
+@inproceedings{sun2021having,
+  title={Having Your Cake and Eating It: An Analysis of Concession-Abuse-as-a-Service},
+  author={Sun, Zhibo and Oest, Adam and Zhang, Penghui and Rubio-Medrano, Carlos E  and Bao, Tiffany and Wang, Ruoyu and Zhao, Ziming and Shoshitaishvili, Yan and Doup{\'e}, Adam and Ahn, Gail-Joon},
+  booktitle={In Proceedings of the 30th USENIX Security Symposium (USENIX)},
+  year=2021
+}
